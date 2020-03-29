@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdio>
-using namespace std;
+using namespace std; 
 
   int max_of_four(int a, int b, int c, int d)
  { int temp ;
