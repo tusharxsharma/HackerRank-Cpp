@@ -9,7 +9,7 @@ int main() {
 
 	// create 2D array
 	int** a = new int*[n]();
-
+ 
 	// fill 2D array with 1D subarrays
 	for (int i = 0; i < n; i++) {
 		// get the length of the 1D array at a[i]
