@@ -4,7 +4,7 @@ using namespace std;
 
 map <string, string> tagMap;
 
-void createMap(int &n, string pretag) {
+void createMap(int &n, string pretag) { 
     if(!n) return;
     
     string line, tag, attr, value;
