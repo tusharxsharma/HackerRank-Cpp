@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     int a,b,n;
     cin>>a>>b;
-        
+         
         for(n=a;n<=b;n++)
         {
         
