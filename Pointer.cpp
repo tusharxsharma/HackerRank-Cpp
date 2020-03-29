@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-void update(int *a,int *b) {
+void update(int *a,int *b) { 
     int c;
     c=*a;
     *a = *a+*b;
